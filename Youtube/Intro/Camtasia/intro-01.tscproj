@@ -1,0 +1,526 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "5.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "21.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "Motion Graphics - Intro Clips - spinningcomputer-91.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20210217T095140",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 22900],
+          "type" : 0,
+          "editRate" : 1000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 30,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210912T112738.277773"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "Music Tracks - gearsofsteel.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20210217T095136",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1587600000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -12.7188408125816,
+          "peakLevel" : 1.00413751602173,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210912T113502.740132"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "Music Tracks - getyourticket.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20210217T095138",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 2127360000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -11.6350903674112,
+          "peakLevel" : 1.00595223903656,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210912T113734.762450"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "vkfooterlogo1.png",
+      "rect" : [0, 0, 500, 500],
+      "lastMod" : "20210910T031700",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 500, 500],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210912T114925.835300"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 5,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 6,
+                    "_type" : "Group",
+                    "parameters" : {
+                      "translation1" : 8.5265128291212e-14,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0,
+                      "volume" : 1.0
+                    },
+                    "tracks" : [
+                      {
+                        "trackIndex" : 0,
+                        "medias" : [
+                          {
+                            "id" : 7,
+                            "_type" : "StitchedMedia",
+                            "minMediaStart" : 0,
+                            "attributes" : {
+                              "ident" : "laptop-open-background",
+                              "gain" : 1.0,
+                              "mixToMono" : false,
+                              "loudnessNormalization" : true
+                            },
+                            "parameters" : {
+                              "sourceCrop0" : 0.0,
+                              "sourceCrop1" : 0.0,
+                              "sourceCrop2" : 0.0,
+                              "sourceCrop3" : 0.0,
+                              "geometryCrop0" : 0.0,
+                              "geometryCrop1" : 0.0,
+                              "geometryCrop2" : 0.0,
+                              "geometryCrop3" : 0.0,
+                              "cursorOpacity" : 1.0,
+                              "cursorScale" : 1.0
+                            },
+                            "medias" : [
+                                {
+                                  "id" : 8,
+                                  "_type" : "VMFile",
+                                  "src" : 1,
+                                  "trackNumber" : 0,
+                                  "attributes" : {
+                                    "ident" : "laptop-open-background"
+                                  },
+                                  "parameters" : {
+                                    "sourceCrop0" : 0.0,
+                                    "sourceCrop1" : 0.0,
+                                    "sourceCrop2" : 0.0,
+                                    "sourceCrop3" : 0.0,
+                                    "geometryCrop0" : 0.0,
+                                    "geometryCrop1" : 0.0,
+                                    "geometryCrop2" : 0.0,
+                                    "geometryCrop3" : 0.0
+                                  },
+                                  "effects" : [
+
+                                  ],
+                                  "start" : 0,
+                                  "duration" : 100,
+                                  "mediaStart" : 0,
+                                  "mediaDuration" : 100,
+                                  "scalar" : 1,
+                                  "metadata" : {
+                                    "WinSubProjectDisplayName" : "",
+                                    "clipSpeedAttribute" : false
+                                  },
+                                  "animationTracks" : {
+
+                                  }
+                                },
+                                {
+                                  "id" : 9,
+                                  "_type" : "IMFile",
+                                  "src" : 1,
+                                  "trackNumber" : 0,
+                                  "trimStartSum" : 0,
+                                  "attributes" : {
+                                    "ident" : "laptop-open-background"
+                                  },
+                                  "parameters" : {
+                                    "sourceCrop0" : 0.0,
+                                    "sourceCrop1" : 0.0,
+                                    "sourceCrop2" : 0.0,
+                                    "sourceCrop3" : 0.0,
+                                    "geometryCrop0" : 0.0,
+                                    "geometryCrop1" : 0.0,
+                                    "geometryCrop2" : 0.0,
+                                    "geometryCrop3" : 0.0
+                                  },
+                                  "effects" : [
+
+                                  ],
+                                  "start" : 100,
+                                  "duration" : 90,
+                                  "mediaStart" : 99,
+                                  "mediaDuration" : 1,
+                                  "scalar" : 1,
+                                  "metadata" : {
+                                    "WinSubProjectDisplayName" : ""
+                                  },
+                                  "animationTracks" : {
+
+                                  }
+                                },
+                                {
+                                  "id" : 10,
+                                  "_type" : "VMFile",
+                                  "src" : 1,
+                                  "trackNumber" : 0,
+                                  "attributes" : {
+                                    "ident" : "laptop-open-background"
+                                  },
+                                  "parameters" : {
+                                    "sourceCrop0" : 0.0,
+                                    "sourceCrop1" : 0.0,
+                                    "sourceCrop2" : 0.0,
+                                    "sourceCrop3" : 0.0,
+                                    "geometryCrop0" : 0.0,
+                                    "geometryCrop1" : 0.0,
+                                    "geometryCrop2" : 0.0,
+                                    "geometryCrop3" : 0.0
+                                  },
+                                  "effects" : [
+
+                                  ],
+                                  "start" : 190,
+                                  "duration" : 587,
+                                  "mediaStart" : 100,
+                                  "mediaDuration" : 587,
+                                  "scalar" : 1,
+                                  "metadata" : {
+                                    "WinSubProjectDisplayName" : "",
+                                    "clipSpeedAttribute" : false
+                                  },
+                                  "animationTracks" : {
+
+                                  }
+                                }
+                            ],
+                            "effects" : [
+
+                            ],
+                            "start" : 0,
+                            "duration" : 191,
+                            "mediaStart" : 0,
+                            "mediaDuration" : 191,
+                            "scalar" : 1,
+                            "metadata" : {
+                              "WinSubProjectDisplayName" : "",
+                              "clipSpeedAttribute" : false
+                            },
+                            "animationTracks" : {
+
+                            }
+                          },
+                          {
+                            "id" : 11,
+                            "_type" : "VMFile",
+                            "src" : 1,
+                            "trackNumber" : 0,
+                            "attributes" : {
+                              "ident" : "laptop-open-background"
+                            },
+                            "parameters" : {
+                              "sourceCrop0" : 0.0,
+                              "sourceCrop1" : 0.0,
+                              "sourceCrop2" : 0.0,
+                              "sourceCrop3" : 0.0,
+                              "geometryCrop0" : 0.0,
+                              "geometryCrop1" : 0.0,
+                              "geometryCrop2" : 0.0,
+                              "geometryCrop3" : 0.0
+                            },
+                            "effects" : [
+
+                            ],
+                            "start" : 191,
+                            "duration" : 116,
+                            "mediaStart" : 109,
+                            "mediaDuration" : 116,
+                            "scalar" : 1,
+                            "metadata" : {
+                              "WinSubProjectDisplayName" : "",
+                              "clipSpeedAttribute" : false
+                            },
+                            "animationTracks" : {
+
+                            }
+                          }
+                        ],
+                          "ident" : "",
+                          "audioMuted" : false,
+                          "videoHidden" : false,
+                          "magnetic" : false,
+                          "matte" : 0,
+                          "solo" : false,
+                          "metadata" : {
+                            "IsLocked" : "False",
+                            "WinTrackHeight" : "56"
+                          }
+                      }
+                    ],
+                    "attributes" : {
+                      "ident" : "Shapes",
+                      "widthAttr" : 1920.0,
+                      "heightAttr" : 1080.0,
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 307,
+                    "mediaStart" : 0.0,
+                    "mediaDuration" : 307.0,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "IsGroupExpanded" : "False",
+                      "WinSubProjectDisplayName" : "Shapes",
+                      "clipSpeedAttribute" : false,
+                      "effectApplied" : "none",
+                      "isOpen" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 12,
+                    "_type" : "AMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "gearsofsteel",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 307,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 307,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 13,
+                    "_type" : "IMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "vkfooterlogo1"
+                    },
+                    "parameters" : {
+                      "translation0" : -25.7142857142856,
+                      "translation1" : 50.0,
+                      "scale0" : 1.4,
+                      "scale1" : 1.4,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0,
+                      "quiz" : {
+                        "type" : "string",
+                        "keyframes" : [
+                          {
+                            "endTime" : 140,
+                            "time" : 140,
+                            "value" : "<Quiz id=\"1193\" name=\"Quiz 7\"><Options feedback=\"1\" graded=\"1\"/><Questions><MultipleChoice id=\"107\" text=\"Default Question Text\" collapsed=\"0\" feedback=\"0\" fb_correct=\"\" fb_correct_action=\"\" fb_correct_jumptime_ms=\"0\" fb_correct_url=\"\" fb_correct_marker=\"\" fb_correct_marker_time=\"0\" fb_wrong=\"\" fb_wrong_action=\"\" fb_wrong_jumptime_ms=\"0\" fb_wrong_url=\"\" fb_wrong_marker=\"\" fb_wrong_marker_time=\"0\"><Answers><Answer id=\"7\" text=\"Default Answer Text\" iscorrect=\"1\"/></Answers></MultipleChoice></Questions></Quiz>",
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 94,
+                    "duration" : 97,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 500.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 500.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "motion graphics",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "20"
+        }
+      },
+      {
+        "ident" : "audio",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "20"
+        }
+      },
+      {
+        "ident" : "infocloud_logo",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "20"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "",
+    "CanvasZoom" : 35,
+    "Date" : "2021-09-12 04:54:55 PM",
+    "Fit" : 0,
+    "IsAutoSave" : false,
+    "IsStandalone" : true,
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "Title" : "intro-01",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic"
+  }
+}
